@@ -1,0 +1,12 @@
+{
+  "name": "finaloop-ai",
+  "version": "0.2.0",
+  "description": "Work with your Finaloop books and business data from your AI assistant.",
+  "author": {
+    "name": "Finaloop",
+    "url": "https://finaloop.com"
+  },
+  "homepage": "https://finaloop.com",
+  "license": "LicenseRef-Finaloop-Proprietary",
+  "privacyPolicyUrl": "https://www.finaloop.com/legal/privacy-policy"
+}

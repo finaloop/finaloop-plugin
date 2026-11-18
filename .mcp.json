@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "finaloop": {
+      "type": "streamable-http",
+      "url": "https://mcp.finaloop.com/"
+    }
+  }
+}
