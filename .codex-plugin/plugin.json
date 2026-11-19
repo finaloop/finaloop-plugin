@@ -1,6 +1,6 @@
 {
   "name": "finaloop-ai",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Work with your Finaloop books and business data from your AI assistant.",
   "author": {
     "name": "Finaloop",
@@ -12,7 +12,7 @@
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Finaloop",
-    "shortDescription": "Your Finaloop books and business data",
+    "shortDescription": "Your books and business data",
     "longDescription": "Connect your AI assistant to Finaloop to review your financial reports, ledger and business performance.",
     "developerName": "Finaloop",
     "category": "Productivity",
@@ -23,6 +23,8 @@
     ],
     "websiteURL": "https://finaloop.com",
     "privacyPolicyURL": "https://www.finaloop.com/legal/privacy-policy",
+    "termsOfServiceURL": "https://www.finaloop.com/legal/terms-privacy",
+    "supportURL": "https://www.finaloop.com/contact",
     "logo": "./assets/icon.png",
     "composerIcon": "./assets/icon.png"
   }
