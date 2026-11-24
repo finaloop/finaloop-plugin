@@ -24,6 +24,6 @@ codex plugin add finaloop-ai@finaloop-plugins
 
 Installing the plugin does not connect your account. After installing, sign in with your Finaloop account:
 
-- Claude Desktop or claude.ai: Customize > Plugins > Finaloop ai > Connectors > Connect
+- Claude Desktop or claude.ai: Customize > Plugins > Finaloop > Connectors > Connect
 - Claude Code: run `/mcp` and sign in to Finaloop
 - Codex: run `codex mcp login finaloop`

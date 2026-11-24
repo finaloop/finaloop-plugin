@@ -27,7 +27,7 @@ show your work, and check the sums before saving.
 Check the Finaloop connection first:
 
 - **No Finaloop tools, or they need sign-in:** tell the user how to connect for the app they are using, then stop:
-  - Claude Desktop or claude.ai: Customize > Plugins > Finaloop ai > Connectors > Connect
+  - Claude Desktop or claude.ai: Customize > Plugins > Finaloop > Connectors > Connect
   - Claude Code: run `/mcp` and sign in to Finaloop
   - Codex: run `codex mcp login finaloop`
   - Anything else: open the app's plugin settings and connect Finaloop

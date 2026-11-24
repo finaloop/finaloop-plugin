@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "finaloop-ai",
-      "version": "0.2.5",
+      "version": "0.2.6",
       "description": "Connect 1,000+ sources — Shopify, Amazon, Stripe, Meta, Google, banks, payroll, inventory — and run your business from a conversation with your AI assistant on accrual-grade accounting data. Ask anything: sales and profits, blended ROAS, true SKU margin, cash runway, anomalies. Build dashboards and schedule reports in plain English.\n\nEvery answer is reconciled to the penny — numbers you can defend in a board meeting.",
       "source": "./"
     }
