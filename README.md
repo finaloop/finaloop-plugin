@@ -1,6 +1,8 @@
 # Finaloop plugin
 
-Connects your AI assistant to Finaloop.
+Connect 1,000+ sources — Shopify, Amazon, Stripe, Meta, Google, banks, payroll, inventory — and run your business from a conversation with your AI assistant on accrual-grade accounting data. Ask anything: sales and profits, blended ROAS, true SKU margin, cash runway, anomalies. Build dashboards and schedule reports in plain English.
+
+Every answer is reconciled to the penny — numbers you can defend in a board meeting.
 
 ## Install
 
